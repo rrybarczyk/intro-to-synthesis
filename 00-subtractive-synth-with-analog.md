@@ -2,6 +2,7 @@
 _Subtractive synthesis means using filters to remove certain frequences._
 
 ## Envelopes
+![envelopes](./img/envelopes.png "Envelopes")
 
 - _Attack_ - the amount of time until the envelope reaches its max amount
 - _Decay_ - amount of time from the max amount to the sustain amount
@@ -16,6 +17,9 @@ Envelopes can control lots of different things, most synths will have an envelop
 
 ## Filtering
 Removing certain frequencies from the frequency spectrum.
+![filtering 1](./img/filtering-1.png "Filtering 1")
+![filtering 2](./img/filtering-2.png "Filtering 2")
+
 
 - _Low pass filter_ - removes high frequencies (only the low’s "pass" through) above the cut off
 - _High pass filter_ - removes low frequencies (only the high’s "pass" through) below the cut off
@@ -30,6 +34,8 @@ Removing certain frequencies from the frequency spectrum.
 
 
 ## Wave Shapes
+
+![wave shapes](./img/wave-shapes.png "Wave Shapes")
 
 - _Sine wave_ - pure, simple, classic (ha). No overtones, just the fundamental (we will cover the meaning of those words later). Just remember it sounds clean and pure.
  - _Sawtooth wave_ - sharp, fuzzy, buzzy. All the partials (again don't worry about this word). This is what most synths use as their base sound because it is so full and has all the overtones.
