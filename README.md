@@ -29,3 +29,6 @@ This course was designed by [Greg](https://github.com/gregtemp) with supplementa
 ### Complex layered sounds with Instrument Rack
 1. Quick recap of all the synthesis styles we learned
 1. Intro to layering and morphing between different sounds, macros and chains
+
+
+damn this course is so good
